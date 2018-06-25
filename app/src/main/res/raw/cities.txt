@@ -1,0 +1,65 @@
+"Tokyo","Japan","http://media­cdn.tripadvisor.com/media/photo­s/03/9b/2e/18/tokyo.jpg"
+,"Tradition collides with pop culture in Tokyo, where you can reverently wander
+ancient temples before rocking out at a karaoke bar. Wake up before the sun to catch
+the lively fish auction at the Tsukiji Market, then refresh with a walk beneath the
+cherry blossom trees that line the Sumida River."
+"Sydney","Australia","http://media­cdn.tripadvisor.com/media/photo­s/03/9b/2e/15/sydne
+y.jpg","Sydney offers plenty of historical and contemporary Australian flavor. The
+marvelous Sydney Opera House looks like a great origami sailboat, floating peacefully
+in a harbor. Wander the narrow cobblestone streets of The Rocks and then take in a
+street performance on the Circular Quay before heading into the Museum of Contemporary
+Art."
+"Los Angeles","United
+States","http://media­cdn.tripadvisor.com/media/photo­s/06/c4/ea/60/hiking­the­hollywo
+od.jpg","Hollywood beckons to tourists who long for a brush with Tinseltown glamor.
+Tour movie studios, slip your hands into the famous prints at the TCL Chinese Theatre,
+or indulge in a celeb sighting at one of LA’s white­hot nightspots. Spot your favorite
+star while shopping at The Grove, or forget all about the famous eye candy as you take
+in the iconic artwork at The Getty."
+"Tokyo","Japan","http://i66.tinypic.com/2zsqx4o.jpg"
+,"Tradition collides with pop culture in Tokyo, where you can reverently wander
+ancient temples before rocking out at a karaoke bar. Wake up before the sun to catch
+the lively fish auction at the Tsukiji Market, then refresh with a walk beneath the
+cherry blossom trees that line the Sumida River."
+"Sydney","Australia","http://i68.tinypic.com/ny8t8z.jpg","Sydney offers plenty of
+historical and contemporary Australian flavor. The marvelous Sydney Opera House
+looks like a great origami sailboat, floating peacefully in a harbor.
+Wander the narrow cobblestone streets of The Rocks and then take in a
+street performance on the Circular Quay before heading into the Museum of Contemporary
+Art."
+"Los Angeles","United
+States","http://i65.tinypic.com/eaijc6.jpg","Hollywood beckons to tourists who long for a brush with Tinseltown glamor.
+Tour movie studios, slip your hands into the famous prints at the TCL Chinese Theatre,
+or indulge in a celeb sighting at one of LA’s white­hot nightspots. Spot your favorite
+star while shopping at The Grove, or forget all about the famous eye candy as you take
+in the iconic artwork at The Getty."
+"Moscow","Russia","http://i65.tinypic.com/xbzr5u.jpg","The political, scientific, historical, architectural and business
+center of Russia, Moscow displays the country's contrasts at their most extreme.
+The ancient and modern are juxtaposed side by side in this city of 10 million. Catch a metro
+from one of the ornate stations to see Red Square, the Kremlin, the nine domes of St.
+Basil's Cathedral, Lenin's Mausoleum, the KGB Museum and other symbols of Moscow's great
+and terrible past, then lighten up and shop Boulevard Ring or people watch in Pushkin Square."
+"Washington","United States","http://i67.tinypic.com/10zd45y.jpg","Washington DC is a hub
+for American politics and history. Attracting as many school field trips as it does travelers
+the district offers a peek into the country’s democratic origin. There are plenty of free museums
+to take advantage of but the real draw here is the memorials and monuments dedicated to great American leaders.
+Spend some contemplative time at the Reflecting Pool within the National Mall,
+among the most patriotic places in the country."
+"New York","United States","http://i64.tinypic.com/106n8sk.jpg","Conquering New York in one visit is
+impossible. Instead, hit the must-sees – the Empire State Building, the Statue of Liberty, Central Park, the Metropolitan
+Museum of Art – and then explore off the beaten path with visits to The Cloisters or one of the
+city’s libraries. Indulge in the bohemian shops of the West Village or the fine dining of the
+Upper West Side. The bustling marketplace inside of Grand Central Station gives you a literal
+taste of the best the city has to offer."
+"Paris","France","http://i68.tinypic.com/b4t8xw.jpg","Lingering over pain au chocolat in a sidewalk
+café, relaxing after a day of strolling along the Seine and marveling at icons like the Eiffel Tower and the
+Arc de Triomphe… the perfect Paris experience combines leisure and liveliness with enough time to savor
+both an exquisite meal and exhibits at the Louvre. Awaken your spirit at Notre Dame, bargain hunt at the Marché
+aux Puces de Montreuil or for goodies at the Marché Biologique Raspail, then cap it all off with a
+risqué show at the Moulin Rouge."
+"Roma","Italy","http://i67.tinypic.com/2na360i.jpg","Rome wasn't built in a day--and you'll need much
+more than a day to take in this timeless city. The city is a real-life collage of piazzas, open-air markets,
+and astonishing historic sites. Toss a coin into the Trevi Fountain, contemplate the Colosseum and the Pantheon,
+and sample a perfect espresso or gelato before spending an afternoon shopping at the Campo de’Fiori or Via Veneto.
+Enjoy some of the most memorable meals of your life here, too, from fresh pasta to succulent fried artichokes or a
+tender oxtail stew."
